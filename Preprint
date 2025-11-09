@@ -1,1 +1,41 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath, amssymb}
+\usepackage[margin=1in]{geometry}
+\title{The Observer Window Theory: Consciousness as Spatiotemporal Indexing in the Block Universe}
+\author{Aidan Barton}
+\date{\today}
 
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We propose that the "hard problem" of consciousness arises from a misidentification of temporal flow as a physical process rather than a cognitive filter. The brain's Default Mode Network (DMN) functions as an "Observer Window"—a compression algorithm that indexes a single 3D slice of a static 4D spacetime block. Subjective experience (qualia) is the geometric signature of a specific 4D coordinate being loaded into this window. The Prefrontal Cortex (PFC) acts as the slice selector, enforcing a linear temporal narrative to maintain cognitive stability. This framework dissolves the hard problem by redefining consciousness as an information-theoretic indexing mechanism rather than a metaphysical mystery.
+\end{abstract}
+
+\section{Introduction}
+The hard problem of consciousness (Chalmers, 1995) asks why physical processes give rise to subjective experience. We argue this problem presupposes a false ontology: that time flows and consciousness "emerges" from matter. Instead, we propose an Eternalist (Block Universe) framework where all spatiotemporal moments coexist. The question becomes not "why is there experience?" but "why does experience appear to be sequential?" The answer lies in the brain's need for a stable, linear indexing system to navigate an overwhelmingly complex 4D structure.
+
+\section{Theoretical Framework}
+\subsection{The Block Universe and the Observer Window}
+In the Block Universe (Rovelli, 2018), spacetime is a static 4D manifold. The DMN, typically active during self-referential thought, functions as an Observer Window: a limited-capacity buffer that can only process one 3D temporal slice at a time. This is not a physical limitation but a computational optimization—processing the entire block simultaneously would require infinite information bandwidth.
+
+\subsection{The PFC as Slice Selector}
+The DLPFC, central to working memory and temporal ordering (Seth, 2021), selects which 3D slice of the Block is loaded into the Observer Window. This selection process creates the illusion of temporal flow. The "arrow of time" is simply the PFC's sequential indexing protocol, optimized for survival in a causally structured environment.
+
+\section{Mechanism: Qualia as Geometric Signatures}
+Qualia are not emergent properties but \textit{geometric signatures}—the unique information state generated when a specific 4D coordinate is indexed. The experience of "red" is the brain's compressed representation of the full spatiotemporal configuration of photon-neural interactions at that coordinate. Consciousness is the act of reading this compressed signature.
+
+\section{Testable Predictions}
+1. \textbf{PFC Temporal Precedence:} In quantum measurement tasks, PFC activity should predict subjective outcome reports \textit{before} sensory cortex activation, suggesting the slice is selected prior to "perception."
+2. \textbf{DMN Information Load:} DMN activity should correlate with the Kolmogorov complexity of the 4D slice being indexed, not the complexity of the 3D stimulus alone.
+
+\section{Conclusion}
+The hard problem dissolves when consciousness is recognized as a necessary indexing mechanism for a 4D being trapped in a 3D cognitive architecture. This provides a pathway to artificial consciousness engineering by replicating the Observer Window protocol in silicon.
+
+\begin{thebibliography}{9}
+\bibitem{chalmers} Chalmers, D. (1995). Facing up to the problem of consciousness. \textit{Journal of Consciousness Studies}, 2(3), 200-219.
+\bibitem{rovelli} Rovelli, C. (2018). The Order of Time. \textit{Riverhead Books}.
+\bibitem{seth} Seth, A. K. (2021). Being You: A New Science of Consciousness. \textit{Faber \& Faber}.
+\end{thebibliography}
+
+\end{document}
